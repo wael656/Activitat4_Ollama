@@ -1,0 +1,5 @@
+How do I reset my password? | Go to the login page and click "Forgot Password". Enter your email.
+What are your business hours? | We are open Monday to Friday from 9 AM to 6 PM EST.
+How can I track my order? | Use your order number at www.example.com/track.
+Do you offer refunds? | Yes, within 30 days of purchase if the item is unused.
+Where are you located? | Our headquarters are in Barcelona, Spain.
